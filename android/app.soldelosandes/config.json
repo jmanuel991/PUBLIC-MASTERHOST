@@ -4,8 +4,8 @@
       "radio_name": "Sol De los Andes",
       "radio_genre": "Varios",
       "radio_url": "https://edge-st1-audio.masterhost.com.ar/listen/sol_de_los_andes/radio.mp3",
-      "radio_image_url": "https://drive.usercontent.google.com/download?id=1V1kfwXJzBuvxgvUND6EfeBEgYI1Bp03v",
-      "background_image_url": "https://drive.usercontent.google.com/download?id=1SCVOWYmQ7PnHDPTloIWsADB5fMXg2Ukd",
+      "radio_image_url": "https://raw.githubusercontent.com/jmanuel991/PUBLIC-MASTERHOST/refs/heads/main/android/IMAGES/radio-image.jpg",
+      "background_image_url": "https://raw.githubusercontent.com/jmanuel991/PUBLIC-MASTERHOST/refs/heads/main/android/IMAGES/radio-background.gif",
       "blur_radio_background": "true",
       "song_metadata": "true",
       "image_album_art": "true",
@@ -61,22 +61,22 @@
   "socials": [
     {
       "social_name": "Website",
-      "social_icon": "https://drive.usercontent.google.com/download?id=1-jd00-HoQkzNV_kBIkhXVO6Kx9hoPXeo",
+      "social_icon": "https://raw.githubusercontent.com/jmanuel991/PUBLIC-MASTERHOST/refs/heads/main/android/IMAGES/website.png",
       "social_url": "https://soldelosandes.masterhost.com.ar"
     },
     {
       "social_name": "Facebook",
-      "social_icon": "https://drive.usercontent.google.com/download?id=1Nciwd4BbcNRHGhSvDUKpfURZjQXoQ34e",
+      "social_icon": "https://raw.githubusercontent.com/jmanuel991/PUBLIC-MASTERHOST/refs/heads/main/android/IMAGES/facebook.png",
       "social_url": "https://www.facebook.com/@SoldelosAndesFM"
     },
     {
       "social_name": "Twitter",
-      "social_icon": "https://drive.usercontent.google.com/download?id=1yUOg7PQr8iMhrwxIjKTp39Xcv4vDcRit",
+      "social_icon": "https://raw.githubusercontent.com/jmanuel991/PUBLIC-MASTERHOST/refs/heads/main/android/IMAGES/twitter.png",
       "social_url": "https://x.com/SoldelosAndesFM"
     },
     {
       "social_name": "Instagram",
-      "social_icon": "https://drive.usercontent.google.com/download?id=120MjBCCCQrVQgDEURUTqP639R8uXPKuU",
+      "social_icon": "https://raw.githubusercontent.com/jmanuel991/PUBLIC-MASTERHOST/refs/heads/main/android/IMAGES/instagram.png",
       "social_url": "https://www.instagram.com/soldelosandesfm"
     }
   ]
